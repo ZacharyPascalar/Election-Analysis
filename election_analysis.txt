@@ -1,0 +1,34 @@
+
+Election Results
+-------------------------
+Total Votes: 369,711
+-------------------------
+
+County Votes:
+Jefferson: 10.5%(38,855)
+
+-------------------------
+Largest County Turnout: Jefferson
+-------------------------
+Raymon Anthony Doane: 3.1% (11,606)
+Denver: 82.8%(306,055)
+
+-------------------------
+Largest County Turnout: Denver
+-------------------------
+Raymon Anthony Doane: 3.1% (11,606)
+Arapahoe: 6.7%(24,801)
+
+-------------------------
+Largest County Turnout: 
+-------------------------
+Largest County Turnout: Denver
+-------------------------
+
+-------------------------
+Raymon Anthony Doane: 3.1% (11,606)
+-------------------------
+Winner: Raymon Anthony Doane
+Winning Vote Count: 11,606
+Winning Percentage: 3.1%
+-------------------------
